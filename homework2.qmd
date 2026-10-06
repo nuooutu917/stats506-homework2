@@ -7,6 +7,7 @@ format:
 execute:
   echo: true
 ---
+GitHub repository: [stats506-homework2](https://github.com/nuooutu917/stats506-homework2)
 # Problem 1: Random Walk with Momentum
 
 ## a. Simulation function
@@ -531,7 +532,9 @@ contains an intercept column, the binary characteristic coded as
 coefficients using matrix operations and fitted the same model
 with lm() for comparison.The estimated coefficients were approximately −31.39149 for the intercept, 0.66678 for danger, and 0.02066 for year. The matrix calculation and lm() produced the same estimates up to numerical precision, as confirmed by all.equal() returning TRUE.
 
+# Sources and assistance
 
+Codex provided some R draft and programming idea.
 
 
 
